@@ -1,0 +1,1 @@
+Instagram collage maker using 5 images. Used basic libraries such as numpy, pandas, cv2 and matplotlib to generate a 430 X 430 collage image.
